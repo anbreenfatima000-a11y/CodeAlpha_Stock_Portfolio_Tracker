@@ -106,6 +106,6 @@ The project helped me practice:
 
 **Anbreen Fatima**
 
-BS Information Technology
+BS Information Technology Student
 Python Programming Intern — CodeAlpha
 
