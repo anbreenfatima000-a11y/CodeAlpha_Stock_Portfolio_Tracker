@@ -1,0 +1,7 @@
+Stock Portfolio Summary
+-----------------------
+AAPL: 2 shares = $360
+GOOGL: 5 shares = $1250
+MSFT: 4 shares = $1200
+
+Total Investment: $2810
